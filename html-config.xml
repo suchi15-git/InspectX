@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report theme: choose between 'standard' and 'dark' -->
+        <theme>standard</theme>
+        
+        <!-- Document encoding, defaults to UTF-8 -->
+        <encoding>UTF-8</encoding>
+        
+        <!-- Protocol for script and stylesheet, defaults to 'https' -->
+        <protocol>https</protocol>
+        
+        <!-- Title of the document -->
+        <documentTitle>Extent Framework</documentTitle>
+        
+        <!-- Report name displayed at the top navigation -->
+        <reportName>Build 1</reportName>
+        
+        <!-- Timestamp format for report logs -->
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+        
+        <!-- Custom JavaScript for the report -->
+        <scripts>
+            <![CDATA[ 
+            $(document).ready(function(){
+                // Custom JavaScript code here
+            });
+            ]]>
+        </scripts>
+        
+        <!-- Optional: Set default output directory -->
+        <outputDir>test-output/HtmlReport</outputDir>
+        
+        <!-- Optional: Set report file name -->
+        <reportFileName>ExtentReport</reportFileName>
+        
+        <!-- Optional: Enable screenshots -->
+        <enableScreenshot>true</enableScreenshot>
+        
+        <!-- Optional: Include test view -->
+        <enableTestView>true</enableTestView>
+        
+        <!-- Optional: Include timeline -->
+        <enableTimeline>true</enableTimeline>
+    </configuration>
+</extentreports>

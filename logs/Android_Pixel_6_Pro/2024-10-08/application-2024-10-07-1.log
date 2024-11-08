@@ -1,0 +1,5 @@
+[logs/Android_Pixel_6_Pro INFO ] 2024-10-07 14:33:53.296 Basetest:179 - appURL is:http://0.0.0.0:4723
+[logs/Android_Pixel_6_Pro INFO ] 2024-10-07 14:34:04.033 LoginPage:42 - entering activation code:gdottest
+[logs/Android_Pixel_6_Pro INFO ] 2024-10-07 14:34:12.378 LoginPage:68 - entering username:skadge@bridge-intel.com
+[logs/Android_Pixel_6_Pro INFO ] 2024-10-07 14:34:16.717 LoginPage:81 - entering password:Admin@123
+[logs/Android_Pixel_6_Pro INFO ] 2024-10-07 15:48:38.087 Basetest:211 - appURL is:http://0.0.0.0:4723

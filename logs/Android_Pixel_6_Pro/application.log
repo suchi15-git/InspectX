@@ -1,0 +1,28 @@
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:02:59.903 Basetest:272 - appURL is:http://0.0.0.0:4723
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:03:11.501 LoginPage:42 - entering activation code:gdottest
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:03:16.367 BasePage:46 - Click Login
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:03:20.578 BasePage:59 - entering username:skadge@bridge-intel.com
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:03:21.267 BasePage:46 - click continue
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:03:22.244 BasePage:59 - entering password:Admin@123
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:03:39.380 Basetest:114 - appium server stopped...
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:08:00.690 Basetest:273 - appURL is:http://0.0.0.0:4723
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:08:18.457 LoginPage:42 - entering activation code:gdottest
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:08:37.757 BasePage:46 - Click Login
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:08:41.277 BasePage:59 - entering username:skadge@bridge-intel.com
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:08:41.970 BasePage:46 - click continue
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:08:42.960 BasePage:59 - entering password:Admin@123
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:09:16.282 Basetest:114 - appium server stopped...
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:12:12.121 Basetest:274 - appURL is:http://0.0.0.0:4723
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:12:42.871 LoginPage:42 - entering activation code:gdottest
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:12:54.537 BasePage:46 - Click Login
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:12:57.335 BasePage:59 - entering username:skadge@bridge-intel.com
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:12:58.041 BasePage:46 - click continue
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:12:59.072 BasePage:59 - entering password:Admin@123
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 11:13:15.455 Basetest:114 - appium server stopped...
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 16:05:55.568 Basetest:274 - appURL is:http://0.0.0.0:4723
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 16:06:06.667 LoginPage:42 - entering activation code:gdottest
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 16:06:10.493 BasePage:46 - Click Login
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 16:06:14.906 BasePage:59 - entering username:skadge@bridge-intel.com
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 16:06:15.604 BasePage:46 - click continue
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 16:06:16.590 BasePage:59 - entering password:Admin@123
+[logs/Android_Pixel_6_Pro INFO ] 2024-11-07 16:06:33.043 Basetest:114 - appium server stopped...

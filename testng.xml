@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Pixel_6_Pro">
+        <listeners>
+            <listener class-name="com.qa.listeners.TestListener" />
+        </listeners>
+        <parameter name="emulator" value="true" />
+        <parameter name="platformName" value="Android" />
+        <parameter name="udid" value="emulator-5554" />
+        <parameter name="deviceName" value="Pixel_6_Pro" />
+        <parameter name="platformVersion" value="9.0"/>
+        <classes>
+            <class name="com.qa.tests.LoginTests" />
+            <class name="com.qa.tests.SettingsTests" />
+        </classes>
+    </test>
+    <!--
+    <test name="Medium Tablet API 35">
+        <listeners>
+            <listener class-name="com.qa.listeners.TestListener" />
+        </listeners>
+        <parameter name="platformName" value="Android" />
+        <parameter name="udid" value="emulator-5556" />
+        <parameter name="deviceName" value="medium_tablet" />
+        <parameter name="platformVersion" value="9.0"/>
+        <classes>
+            <class name="com.qa.tests.LoginTests" />
+            <class name="com.qa.tests.SettingsTests" />
+        </classes>
+    </test>
+    -->
+</suite>

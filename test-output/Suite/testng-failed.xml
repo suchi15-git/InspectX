@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.qa.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Pixel_6_Pro(failed)">
+    <parameter name="emulator" value="true"/>
+    <parameter name="platformVersion" value="9.0"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="udid" value="emulator-5554"/>
+    <parameter name="deviceName" value="Pixel_6_Pro"/>
+    <classes>
+      <class name="com.qa.tests.SettingsTests">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="logoutApplication"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.qa.tests.SettingsTests -->
+    </classes>
+  </test> <!-- Pixel_6_Pro(failed) -->
+</suite> <!-- Failed suite [Suite] -->
